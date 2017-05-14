@@ -27,7 +27,7 @@ SECRET_KEY = 'l2a+worysy9+wjt05ek%r)n)=n)tpz1-+fmmm@c=fdf_-p9bo&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.9', '192.168.1.6', '192.168.2.106',]
+ALLOWED_HOSTS = ['192.168.1.9', '192.168.1.6', '192.168.2.106', '192.168.2.100']
 
 SITE_NAME = '张志平的博客'
 SITE_DESC = 'my django blog project'
